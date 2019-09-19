@@ -1,6 +1,6 @@
 # Y2 COMP10120 Project
 
-2019 group project for Y2.
+2019 group project for Y2. This project was developed by a team of seven Computer Science students at the University of Manchester.
 
 ## File Structure
 
